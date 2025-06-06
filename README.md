@@ -8,7 +8,7 @@ certificate issuance, QR-based validation, and seed classification using machine
 This project is currently live and operational, with both frontend and backend hosted on modern cloud platforms for global access.
 
 - **Live Frontend**: [seed-certificate.vercel.app]
-- **GitHub Repo**: ]
+- **GitHub Repo**:https://github.com/aadumbuya/Mission_Capstone.git]
 
 ---
 
@@ -38,7 +38,7 @@ This project is currently live and operational, with both frontend and backend h
 ### 1. Clone the Repository
 
 ```bash
-git clone https://
+git clone https://github.com/aadumbuya/Mission_Capstone.git
 cd Seed_traceability_system
 ````
 
