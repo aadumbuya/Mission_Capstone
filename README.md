@@ -94,4 +94,5 @@ npm start
 
 https://www.figma.com/proto/6Ms0hOk6t75Xe3WW32MnOP/GHAL-Digital-Seed-Certification-System?node-id=57-125&t=bzAB59a9kfxxJ8UP-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
-## 
+https://www.canva.com/design/DAGjMwwoD2I/VVvl68ib0XWUdQ5XpujoyA/edit
+
