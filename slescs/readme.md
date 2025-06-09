@@ -1,12 +1,12 @@
-# SeedCert – Seed Traceability & Certification System
+# SLeSCS– Seed Traceability & Certification System
 
-**SeedCert** is a web-based platform designed to transform seed certification processes in Sierra Leone. The system provides digital workflows for inspection logging,
+**SLeSCS** is a web-based platform designed to transform seed certification processes in Sierra Leone. The system provides digital workflows for inspection logging,
 certificate issuance, QR-based validation, and seed classification using machine learning.
 
 This project is currently live and operational, with both frontend and backend hosted on modern cloud platforms for global access.
 
 - **Live Frontend**: [seed-certificate.vercel.app]
-- **GitHub Repo**: [https://github.com/aadumbuya/Seed_traceability_system]
+- **GitHub Repo**: [https://github.com/aadumbuya/Mission_Capstone.git]
 
 ---
 
@@ -36,7 +36,7 @@ This project is currently live and operational, with both frontend and backend h
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aadumbuya/Seed_traceability_system.git
+git clone https://github.com/aadumbuya/Mission_Capstone.git
 cd Seed_traceability_system
 ````
 
@@ -88,5 +88,8 @@ npm start
 * **Backend** is deployed on [Render](https://render.com), with PostgreSQL as the cloud database and environment variables stored securely on Render’s dashboard.
 * ML services (seed classification) are exposed via Django REST API endpoints and deployed as part of the backend container.
 
+## Figma Design
 
--
+https://www.figma.com/proto/6Ms0hOk6t75Xe3WW32MnOP/GHAL-Digital-Seed-Certification-System?node-id=57-125&t=bzAB59a9kfxxJ8UP-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
+https://www.canva.com/design/DAGjMwwoD2I/VVvl68ib0XWUdQ5XpujoyA/edit 
